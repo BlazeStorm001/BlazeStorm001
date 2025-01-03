@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🚀 About Me  
+👋 Hi, I'm Namit 
 
-<!--
-**BlazeStorm001/BlazeStorm001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a versatile software developer with expertise in **Advanced Python** and **AI/ML**, specializing in building high-performance Python solutions. With a strong foundation in **computer science fundamentals** and mathematics, I bring deep knowledge in areas such as **data structures**, **algorithms**, **operating systems** and **networking**.  
 
-Here are some ideas to get you started:
+In the realm of **AI/ML**, I have hands-on experience with **PyTorch**, **NumPy**, and **Scikit-learn**, and I have worked extensively in **Reinforcement Learning (RL)**, designing intelligent agents and optimizing decision-making models.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond Python, I have a diverse background in software engineering, including **Web Development** and **Android Development**, delivering quality solutions as a freelancer under tight deadlines. I also possess expertise in **SEO**, having managed my own **Android Hacking Blog** with over 10,000 monthly visitors.  
+
+I enjoy experimenting with emerging technologies, exploring various techniques, and continuously learning to enhance my skill set.  
+
+---
+
+## 🛠️ Skills  
+- **Programming Languages**: Python, JavaScript/Typescript, Java, C  
+- **AI/ML Expertise**: PyTorch, NumPy, Scikit-learn, OpenAI Gym  
+- **Web Development**: FastAPI, React, Tailwind, MySQL, MongoDB, SQLite
+- **Other Skills**: Android Development, SEO
+---
+
+## 🌱 Currently Learning  
+- Generative AI
+- Scalable web architectures with FastAPI  
+
+---
+
