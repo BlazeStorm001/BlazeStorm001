@@ -12,10 +12,11 @@ I enjoy experimenting with emerging technologies, exploring various techniques, 
 ---
 
 ## 🛠️ Skills  
-- **Programming Languages**: Python, JavaScript/Typescript, Java, C  
+- **Programming Languages**: Python, JavaScript/Typescript, Java, C, MATLAB  
 - **AI/ML Expertise**: PyTorch, NumPy, Scikit-learn, OpenAI Gym  
-- **Web Development**: FastAPI, React, Tailwind, MySQL, MongoDB, SQLite
-- **Other Skills**: Android Development, SEO
+- **Web Development**: FastAPI, Next.js, React, Tailwind, MySQL, MongoDB, SQLite
+- **Cloud**: Google Cloud
+- **Other Skills**: Android Development, VSCode Extension Development, Docker, SEO
 ---
 
 ## 🌱 Currently Learning  
