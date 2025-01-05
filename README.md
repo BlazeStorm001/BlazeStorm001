@@ -18,6 +18,20 @@ I enjoy experimenting with emerging technologies, exploring various techniques, 
 - **Cloud**: Google Cloud
 - **Other Skills**: Android Development, VSCode Extension Development, Docker, SEO
 ---
+# My GitHub Repositories
+
+## AI/ML
+- [AI Project 1](https://github.com/BlazeStorm001/bg-pred) - Description of the AI project.
+
+## Android
+- [Android App 1](https://github.com/yourusername/android-app-1) - Description of your Android app.
+- [Android App 2](https://github.com/yourusername/android-app-2) - Another Android app repository.
+
+## Web Development
+- [Personal Website](https://github.com/yourusername/personal-website) - A personal portfolio website built using HTML/CSS.
+- [Web App Project](https://github.com/yourusername/web-app-project) - A web application using JavaScript and Node.js.
+
+---
 
 ## 🌱 Currently Learning  
 - Generative AI
