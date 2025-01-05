@@ -24,5 +24,4 @@ I enjoy experimenting with emerging technologies, exploring various techniques, 
 - Generative AI
 - Scalable web architectures with FastAPI  
 
----
 
