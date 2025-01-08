@@ -1,5 +1,8 @@
-## 🚀 About Me  
-👋 Hi, I'm Namit 
+## GitHub Stats
+
+![BlazeStorm001's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeStorm001&show_icons=true&theme=radical)
+
+## 🚀 About Me 
 
 I am a versatile software developer with expertise in **Advanced Python** and **AI/ML**, specializing in building high-performance Python solutions. With a strong foundation in **computer science fundamentals** and mathematics, I bring deep knowledge in areas such as **data structures**, **algorithms**, **operating systems** and **networking**.  
 
@@ -17,8 +20,7 @@ I enjoy experimenting with emerging technologies, exploring various techniques, 
 - **Web Development**: FastAPI, Next.js, React, Tailwind, MySQL, MongoDB, SQLite
 - **Cloud**: Google Cloud
 - **Other Skills**: Android Development, VSCode Extension Development, Docker, SEO
-- 
----
+  
 
 ## 🌱 Currently Learning  
 - Generative AI
